@@ -10,6 +10,8 @@ sum = a + b;
 
 printf("%d", sum);
 
+printf("\nthe sum of the two numbers is %d",sum);
+
 
 
 
